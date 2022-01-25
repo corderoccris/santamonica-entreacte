@@ -9,11 +9,6 @@ body{
   padding: 0px;
 }
 
-.content{
-  background-image: url("rastres/pregunta.png");
-  background-size: 100vw;
-}
-
 .content .fotos {
   width: 100vw;
 }
@@ -39,6 +34,12 @@ body{
   padding-top: 1em;
   text-align: justify;
   text-justify: inter-word;
+}
+
+.information-block pre {
+  padding: 0px;
+  width: 100vh;
+  margin: 0px;
 }
 
 .buttons li{
