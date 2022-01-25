@@ -5,9 +5,25 @@
 }
 
 body{
-  background: white;
   margin: 0px;
   padding: 0px;
+}
+
+.content{
+  background-image: url("rastres/pregunta.png");
+  background-size: 100vw;
+}
+
+.content .fotos {
+  width: 100vw;
+}
+
+.idioma {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 1em;
+  margin: 0px;
 }
 
 .capsalera{
